@@ -19,6 +19,31 @@
 	width: 112px;
 	height: 112px;
 	background-color: #a65560;
+	margin-bottom: 0px;
 }
-.nav {
+.nav-left {
+	position: absolute;
+	top: 64px;
+	left: 466px;
+}
+.nav-right {
+	position: absolute;
+	top: 64px;
+	right: 528px;
+}
+.slideshow img {
+	margin-top: 217px;
+	border: 2px solid black;
+}
+.social img{
+    position: absolute;
+    left: 50%;
+	margin-left: -64px;
+	border-radius: 50%;
+	width: 112px;
+	height: 112px;
+	background-color: #a65560;
+}
+#facebook {
+	margin: 50px 50px 50px 50px;
 }
