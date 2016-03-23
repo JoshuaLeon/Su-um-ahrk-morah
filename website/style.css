@@ -21,6 +21,18 @@
 	background-color: #a65560;
 	margin-bottom: 0px;
 }
+.nav-left{
+	background-color: red;
+	height: 43px;
+	width: 433px;
+	position: absolute;
+	left: 0%;
+}
+.nav-right{
+	background-color: green;
+	height: 43px;
+	width: 433px;
+}
 .slideshow img {
 	border: 2px solid black;
 	width: 1900px; 
