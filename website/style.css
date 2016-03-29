@@ -21,17 +21,25 @@
 	background-color: #a65560;
 	margin-bottom: 0px;
 }
-.nav-left{
-	background-color: red;
-	height: 43px;
-	width: 433px;
+.menu {
 	position: absolute;
-	left: 0%;
+	left: 34%;
+	margin-top: 44px;
 }
-.nav-right{
-	background-color: green;
-	height: 43px;
-	width: 433px;
+.idea_center {
+	position: absolute;
+	left: 39%;
+	margin-top: 44px;
+}
+.shop {
+	position: absolute;
+	right: 44%;
+	margin-top: 44px;
+}
+.find_us {
+	position: absolute;
+	right: 36%;
+	margin-top: 44px;
 }
 .slideshow img {
 	border: 2px solid black;
