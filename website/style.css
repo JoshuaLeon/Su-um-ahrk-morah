@@ -47,6 +47,23 @@
 	height: 550px;
 	margin-top: 224px;
 }
+#page {
+	margin-top: 22px;
+}
+.img1 {
+	margin-left: 453px;
+	margin-right: 15px;
+	float: left;
+}
+.img2 {
+	margin-left: 15px;
+	margin-right: 435px;
+	float: right;
+}
+.img3 {
+	margin-left: 453px;
+	margin-right: 15px;
+}
 #pinterest {
 	border-radius: 50%;
 	width: 87px;
