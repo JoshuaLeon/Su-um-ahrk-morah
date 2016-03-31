@@ -43,26 +43,25 @@
 }
 .slideshow img {
 	border: 2px solid black;
-	width: 1900px; 
-	height: 550px;
+	width: 100%; 
+	height: 21%;
 	margin-top: 224px;
 }
 #page {
 	margin-top: 22px;
 }
 .img1 {
-	margin-left: 453px;
-	margin-right: 15px;
+	margin-left: 28%;
 	float: left;
+	height: 13%;
+	width: 492px;
+	margin-top: 20px;
 }
 .img2 {
-	margin-left: 15px;
-	margin-right: 435px;
 	float: right;
-}
-.img3 {
-	margin-left: 453px;
-	margin-right: 15px;
+	margin-right: 25%;
+	height: 16%;
+	margin-top: 20px;
 }
 #pinterest {
 	border-radius: 50%;
@@ -71,6 +70,7 @@
 	background-color: #a65560;
 	position: absolute;
 	left: 20%;
+	margin-top: 2516px;
 }
 .twitter {
 	border-radius: 50%;
@@ -79,6 +79,7 @@
 	background-color: #a65560;
 	position: absolute;
 	left: 40%;
+	margin-top: 2516px;
 }
 .facebook {
 	border-radius: 50%;
@@ -87,6 +88,7 @@
 	background-color: #a65560;
 	position: absolute;
 	left: 60%;
+	margin-top: 2516px;
 }
 .instagram {
 	border-radius: 50%;
@@ -95,4 +97,5 @@
 	background-color: #a65560;
 	position: absolute;
 	left: 80%;
+	margin-top: 2516px;
 }
