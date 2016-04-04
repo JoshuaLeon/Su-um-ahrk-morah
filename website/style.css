@@ -56,26 +56,17 @@
 	height: 13%;
 	width: 492px;
 	margin-top: 20px;
+	border-bottom: 5px dashed gray;
 }
 .img2 {
 	float: right;
 	margin-right: 25%;
 	height: 16%;
 	margin-top: 20px;
-}
-.img2 {
-	margin-left: 28%;
-	float: left;
+	border-bottom: 5px dashed gray;
 }
 .img3 {
-}
-.img4 {
-}
-.img5 {
-}
-.img6{
-	float: right;
-	margin-right: 25%;
+	
 }
 #pinterest {
 	border-radius: 50%;
